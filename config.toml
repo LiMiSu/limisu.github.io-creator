@@ -1,0 +1,4 @@
+baseURL = "http://limisu.github.io/"
+languageCode = "zh-Hans"
+title = "苏咪的博客"
+theme = "ananke"
